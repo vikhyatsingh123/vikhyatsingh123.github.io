@@ -16,11 +16,9 @@
              }
               p { font-style:verdana ; font-size:250%;
              }
-              ul { font-size:150%;
-             }
-              ul li {
+              ul {
                    background-color:#00ffbf ;
-                   margin-top: 5px; margin-right:400px; margin-left:200px;
+                   margin-top: 5px; margin-right:400px; margin-left:200px; font-size:150%
              }
                .bottom-container {
                    background-color: #66BFBF;
