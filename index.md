@@ -71,7 +71,7 @@
          </style>
 </head>
 
-<body background="images/diagram.png" width:200% >
+<body background="images/diagram.png  width:200%" >
      <div class="top-container">
           <img src="images/prince2.jpg"  ><br>
           <h1 class="name">Hi there ! <br> I'm <i><u>Vikhyat Singh</u></i></h1>
