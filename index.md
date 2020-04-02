@@ -61,9 +61,15 @@ ul li {
 </head>
 <body background="C:\Users\Asus\Pictures\diagram.png" width:200% >
 <div class=top-container>
+<<<<<<< HEAD
         <img src="C:\Users\Asus\Pictures\Camera Roll\prince2.jpg"  ><br>
         <h1 class="name">Hi there ! <br> I'm <i><u>Vikhyat Singh</i></u></h1>
         <h1 class=name2> a programmer <h1>
+=======
+   <img src="C:\Users\Asus\Pictures\Camera Roll\prince2.jpg"  ><br>
+   <h1 class="name">Hi there ! <br> I'm <i><u>Vikhyat Singh</i></u></h1>
+   <h1 class=name2> a programmer <h1>
+>>>>>>> ee530e66819191b13da8c46cf8bb326e1b5116a6
 </div>
 <p> I am a student of <a href="http://www.nitp.ac.in/" > " National Institute of Technology,Patna"</a><br>Currently, I am taking my Btech degree in Electronics and Communication<br> Engineering (2019-2023) </p>
 <h2 style=font-size:300%; font-family:arial;>Highschool and Intermediate:-- </h2>
@@ -78,6 +84,7 @@ ul li {
 <h2 style=font-size:300%>Get in touch:-- </h2>
 <a href="mailto:vikhyatsingh628@gmail.com" class="myButton" method="post" enctype="text/plain">📧 EMAIL ME</a>
 <div class="bottom-container">
+<<<<<<< HEAD
         <a class="footer-link" href="https://www.linkedin.com/in/vikhyat-singh-337777197/" target="_blank"><img class="yo" src="C:\Users\Asus\Pictures\linkedin.png" /></a>
         <a class="footer-link" href="https://www.instagram.com/vikhyat552/" target="_blank"><img class="yo1" src="C:\Users\Asus\Pictures\instagram.png" /></a>
         <a class="footer-link" href="https://www.facebook.com/vikhyat.singh.104?ref=bookmarks" target="_blank"><img class="yo2" src="C:\Users\Asus\Pictures\facebook.png" /></a>
@@ -85,6 +92,15 @@ ul li {
              <div class="copyright">
                      <p class="helll">©️ 2020 Vikhyat singh</p>
             </div>
+=======
+    <a class="footer-link" href="https://www.linkedin.com/in/vikhyat-singh-337777197/" target="_blank"><img class="yo"                  src="C:\Users\Asus\Pictures\linkedin.png" /></a>
+     <a class="footer-link" href="https://www.instagram.com/vikhyat552/" target="_blank"><img class="yo1" src="C:\Users\Asus\Pictures\instagram.png" /></a>
+     <a class="footer-link" href="https://www.facebook.com/vikhyat.singh.104?ref=bookmarks" target="_blank"><img class="yo2" src="C:\Users\Asus\Pictures\facebook.png" /></a>
+     <a class="footer-link" href="https://github.com/vikhyatsingh123" target="_blank"><img class="yo3" src="C:\Users\Asus\Pictures\github.png" /></a>
+     <div class="copyright">
+          <p class="helll">©️ 2020 Vikhyat singh</p>
+     </div>
+>>>>>>> ee530e66819191b13da8c46cf8bb326e1b5116a6
 </div>
 </body>
 </html>
