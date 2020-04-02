@@ -4,7 +4,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <style>
           body { 
-               margin:0px ; font-family:merriweather  ; text-align:center; background-repeat: repeat-x;background: url("images/diagram.png"); background-size:200%;
+               margin:0px ; font-family:merriweather  ; text-align:center;background: url("images/diagram.png"); background-repeat: repeat-x; background-size:200px 200px;
             }
               .top-container { background-color:-; padding-bottom:2%; padding-top:2%;
             }
