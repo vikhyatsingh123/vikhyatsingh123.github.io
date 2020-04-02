@@ -1,4 +1,4 @@
-<! DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head> 
      <title> Vikhyat Singh -- Portfolio</title>
@@ -21,7 +21,7 @@
              }
               ul li {
                    background-color:#00ffbf ;
-                   margin-top: 5px; margin-right:400px; margin-left:400px;
+                   margin-top: 5px; margin-right:400px; margin-left:200px;
              }
                .bottom-container {
                    background-color: #66BFBF;
