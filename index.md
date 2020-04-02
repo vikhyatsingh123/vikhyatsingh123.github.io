@@ -5,7 +5,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <style>
           body { 
-               margin:0px ; font-family:merriweather  ; text-align:center; background-repeat: repeat-x;
+               margin:0px ; font-family:merriweather  ; text-align:center; background-repeat: repeat-x;background="images/diagram.png";  width:200%;
             }
               .top-container { background-color:-; padding-bottom:2%; padding-top:2%;
             }
@@ -71,7 +71,7 @@
          </style>
 </head>
 
-<body background="images/diagram.png  width:200%" >
+<body>
      <div class="top-container">
           <img src="images/prince2.jpg"  ><br>
           <h1 class="name">Hi there ! <br> I'm <i><u>Vikhyat Singh</u></i></h1>
